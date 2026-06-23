@@ -9,3 +9,12 @@ build/
 
 # Ignore local environment files
 .env
+
+# IDE directories
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
