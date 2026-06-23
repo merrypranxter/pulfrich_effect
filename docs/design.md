@@ -40,5 +40,8 @@ There are many directions to expand this project:
 * **Adjustable blur:** Allow the user to change the temporal integration time interactively.
 * **Complex scenes:** Instead of a simple moving band, render 3D objects or particle systems.
 * **Different modalities:** Experiment with color filters, motion trajectories, or multi‑eye setups.
+* **Interactive temporal blur:** Provide controls to adjust the temporal integration time in real time (see `examples/interactive_blur.js`).
+* **Stereo view:** Render normal and delayed images side‑by‑side to visualize the depth shift (see `examples/stereo_view.js`).
+* **Swirl pattern:** Experiment with radial and angular coordinate manipulation for swirling bands (see `examples/swirl_pattern.js`).
 
 Feel free to iterate and contribute your own examples or enhancements!
